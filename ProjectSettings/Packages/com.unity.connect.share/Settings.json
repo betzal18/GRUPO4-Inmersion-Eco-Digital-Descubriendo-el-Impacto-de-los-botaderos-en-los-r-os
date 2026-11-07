@@ -1,0 +1,21 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/medal/Downloads/PROTO3;C:/Users/medal/Downloads/PROYECTO26;C:/Users/medal/Downloads/PROYECT;C:/Users/medal/Downloads/MOBILE;C:/Users/medal/Downloads/Nueva carpeta (2);C:/Users/medal/Downloads/prueba;C:/Users/medal/Downloads/RioWebDinamicoListo;C:/Users/medal/Downloads/NEW;C:/Users/medal/Downloads/RIO1;C:/Users/medal/Downloads/1\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}
